@@ -1,1 +1,18 @@
 
+
+.navigation li {
+    display: inline-block;
+    margin-right: 15px;
+    font-size: 25px;
+    text-align: left;
+
+}
+
+.navigation ul {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+#At-Home {
+    text-align: center;
+}
