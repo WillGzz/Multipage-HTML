@@ -1,15 +1,15 @@
 {
     "rewrites": [
       {
-        "source": "/",
+        "source": "index.html",
         "destination": "/CMP-464/Projects/index.html"
       },
       {
-        "source": "/atHome",
+        "source": "atHome.html",
         "destination": "/CMP-464/Projects/atHome.html"
       },
       {
-        "source": "/cost",
+        "source": "cost.html",
         "destination": "/CMP-464/Projects/cost.html"
       }
     ]
